@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T19:53:13.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="mp9uZb48tw_vuOegq8kz" version="13.9.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-11-14T19:57:14.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Fu6RyzRXNinHMVCeoAXu" version="13.9.8" type="github" pages="11">
   <diagram id="PulOCDqJ7PH4Gsll6wzy" name="管理员当前系统的具体模型">
     <mxGraphModel dx="1202" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -706,7 +706,7 @@
         <mxCell id="UsqCIHVko9U-EL0fvdG3-3" value="判断是否登录" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="UsqCIHVko9U-EL0fvdG3-1">
           <mxGeometry x="270" y="508.25" width="77.5" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="UsqCIHVko9U-EL0fvdG3-7" value="1. 查看用户/商户/骑手/订单信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="UsqCIHVko9U-EL0fvdG3-1">
+        <mxCell id="UsqCIHVko9U-EL0fvdG3-7" value="1. 管理用户/商户/骑手/订单信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="UsqCIHVko9U-EL0fvdG3-1">
           <mxGeometry x="95" y="497" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UsqCIHVko9U-EL0fvdG3-10" value="3. 发布通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="UsqCIHVko9U-EL0fvdG3-1">
