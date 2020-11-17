@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T13:19:05.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6MEN61FFQV6l1LBBrcHa" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T13:19:48.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1YwXcefzUe_xme2IsgJP" version="13.9.8" type="github">
   <diagram id="Aljn4v3LOz4VvZzj8xWc" name="Page-1">
     <mxGraphModel dx="1022" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IaWsNpJakezpJuNQYhLt-2" value="查看用户订单/投诉、查看用户/骑手/商户对系统的建议和反馈、骑手申请认证消息/商户申请入驻信息、其他" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="IaWsNpJakezpJuNQYhLt-2" value="查看用户订单/投诉、查看用户/骑手/商户对系统的建议和反馈、骑手申请认证消息/商户申请入驻信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="131.88" width="136.25" height="136.25" as="geometry" />
         </mxCell>
         <mxCell id="IaWsNpJakezpJuNQYhLt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaWsNpJakezpJuNQYhLt-4" target="IaWsNpJakezpJuNQYhLt-2">
