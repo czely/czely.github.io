@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T13:13:54.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="psD5EEquqDqtF5KWsD8b" version="13.9.8" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-11-17T13:14:35.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5TZMVhXJjbKGPUvhUabx" version="13.9.8" type="github" pages="14">
   <diagram id="jnfOdmZ__iaxUr_c12kk" name="管理员当前系统具体模型">
     <mxGraphModel dx="1022" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1347,9 +1347,6 @@
         </mxCell>
         <mxCell id="rVAx9wzDHqGh4qZsEd1G-108" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;根据订单id&lt;br&gt;在订单列表中&lt;br&gt;删除订单&lt;/span&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="KndNFjwTxV0HdH_c6A_6-1">
           <mxGeometry x="1330" y="1652.5" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="a0gq1P5QOYe2Yn_ux11t-0" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="KndNFjwTxV0HdH_c6A_6-1">
-          <mxGeometry x="820" y="1030" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a0gq1P5QOYe2Yn_ux11t-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="KndNFjwTxV0HdH_c6A_6-1">
           <mxGeometry x="830" y="30" width="757" height="2280" as="geometry" />
