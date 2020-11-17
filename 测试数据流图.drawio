@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T13:21:24.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.8" etag="3zyr5NXgDMUX0CFQ0ZOj" type="github"><diagram id="B9DCVJaBmmpHyHZKBTdh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-17T13:21:47.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jtBfPmCz9FqZoesT--KT" version="13.9.8" type="github">
+  <diagram id="B9DCVJaBmmpHyHZKBTdh" name="Page-1">
+    <mxGraphModel dx="1022" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRbtiXRgyC5MJ36haVNz-2" target="wRbtiXRgyC5MJ36haVNz-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-2" value="查看用户订单/投诉、查看用户/骑手/商户对系统的建议和反馈、骑手申请认证消息/商户申请入驻信息、其他" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="131.88" width="136.25" height="136.25" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wRbtiXRgyC5MJ36haVNz-4" target="wRbtiXRgyC5MJ36haVNz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-4" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="175" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRbtiXRgyC5MJ36haVNz-6" target="wRbtiXRgyC5MJ36haVNz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-6" value="判断&lt;br&gt;消息类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="165" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRbtiXRgyC5MJ36haVNz-8" target="wRbtiXRgyC5MJ36haVNz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-8" value="根据不同类型信息作出不同处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="155" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRbtiXRgyC5MJ36haVNz-10" target="wRbtiXRgyC5MJ36haVNz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-10" value="把处理完的结果发送给对应对象" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="148.75" width="100" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-11" value="用户/骑手/商户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="175" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-12" value="消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wRbtiXRgyC5MJ36haVNz-13" value="消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
